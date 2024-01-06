@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<p>Welcome to spring mvc </p>
+<p>Welcome to spring mvc.Click here to <a href="/show-users">manage application</a> </p>
 </body>
 </html>
